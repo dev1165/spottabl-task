@@ -1,0 +1,9 @@
+.sugesstion-elements {
+  border: 1px solid #2c1cb6;
+  color: #2c1cb6;
+  border-radius: 4px;
+}
+
+.reset-button {
+  cursor: pointer;
+}

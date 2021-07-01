@@ -1,11 +1,7 @@
-# React & Redux Using Hooks
+### steps to run this project
 
-### Description
-Simple example of using redux with hooks in a React app.
-
-### Issues
-
-
-### Author
-- Rodrigo Hernando G.
-- Twitter: [@websnapcl](https://twitter.com/websnapcl/)
+- colne this project
+- cd ./path/to/cloned-project
+- npm i
+  -npm start
+  -browse http://localhost:8080 from chrome
